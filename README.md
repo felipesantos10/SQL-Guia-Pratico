@@ -1,4 +1,4 @@
-<img src="/image/Logo SQL.png" />
+<img  src="/image/Logo SQL.png" align = "center"  />
 # SQL-Guia-Pratico
 Reporsitorio criado para estudo e pratica de Linguagem SQL(Linguagem de consulta estruturada) utilizando o Livro da Alice Zhao "SQL Guia Prtico"
 
