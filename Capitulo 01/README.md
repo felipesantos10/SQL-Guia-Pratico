@@ -39,8 +39,36 @@
 
 ### Instruções SQL
 - Instruções SQL são comandos em SQL que realizam uma das operações em CRUD
-- Precisa ter acesso de leitura e Gravação em Banco de Dados
+    - Pode criar e excluir tabelas e atualizar e ler dados.
+- Precisa ter acesso de leitura e Gravação em Banco de Dados.
 - Pessoas que trabalham com essa atividade geralmente são chamadas de DBA( _database administrator) ou engenheiro de banco de dados.
 
 ### Consultas SQL
+- _Acesso de leitura_ em um banco de Dados só permite examinar os dados da tabelas.
+- Chamados de consultas SQL permite que seja realiza busca e exibição de dados. Também conhecidos como consultas de tabelas
+- Cargos: Analista de dados ou Cientist de dados.
+
+### Instrução SELECT
+- Consulta mais basica
+
+```sql
+SELECT * FROM my_table;
+```
+obs: Mostre-me todos os dados da tabela my_table - colunas e linhas
+
+-  Palavras MAIUSCULAS são chamadas de _palavras-chaves_(reservadas para operação de algum tipo na operação com os dados)
+
+### Memorize essa ordem
+
+- Todas as consultas SQL conterão algumas dessas clausulas.
+
+```sql
+SELECT -- colunas que serão exibidas
+FROM -- tabela que será extraidas os dados
+WHERE -- Filtra linhas 
+GROUP BY -- divide linhas em grupos
+HAVING -- filtra linhas agrupadas
+ORDER BY -- colunas a serem classificada 
+```
+
 
