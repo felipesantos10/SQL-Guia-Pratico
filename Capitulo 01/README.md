@@ -1,7 +1,7 @@
 # Curso Intensivo de SQL
 
 - O que é um banco de Dados?
-    - Local de armazenados de dados de maneira organizada ou estruturada.
+    - Local de armazenamento de dados de maneira **organizada ou estruturada**.
 - Ha muitas maneiras de organizar um banco de dados como também existem muitos tipos de banco. Em especial tem duas categorias: _Sql_ e _NoSql_.
 ### SQL
     - Abreviação de _Structured Query Language_ (Linguagem de Consulta Estruturada).
@@ -33,5 +33,14 @@
     - exemplos: create table datetime _microsoft sql server_
 
 ### Consultas SQL
-   
+- 4 principais operações que estão disponiveis no banco de Dados.
+    - CRUD (CREATE,READ,UPTADE,DELETE).
+    - Cria, ler, atualizar e deletar.
+
+### Instruções SQL
+- Instruções SQL são comandos em SQL que realizam uma das operações em CRUD
+- Precisa ter acesso de leitura e Gravação em Banco de Dados
+- Pessoas que trabalham com essa atividade geralmente são chamadas de DBA( _database administrator) ou engenheiro de banco de dados.
+
+### Consultas SQL
 
