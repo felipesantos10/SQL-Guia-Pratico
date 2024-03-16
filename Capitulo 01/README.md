@@ -45,7 +45,7 @@
 
 ### Consultas SQL
 - _Acesso de leitura_ em um banco de Dados só permite examinar os dados da tabelas.
-- Chamados de consultas SQL permite que seja realiza busca e exibição de dados. Também conhecidos como consultas de tabelas
+- Chamados de consultas SQL permite que seja realiza busca e exibição de dados. Também conhecidos como consultas de tabelas.
 - Cargos: Analista de dados ou Cientist de dados.
 
 ### Instrução SELECT
@@ -54,9 +54,9 @@
 ```sql
 SELECT * FROM my_table;
 ```
-obs: Mostre-me todos os dados da tabela my_table - colunas e linhas
+obs: Mostre-me todos os dados da tabela my_table - colunas e linhas.
 
--  Palavras MAIUSCULAS são chamadas de _palavras-chaves_(reservadas para operação de algum tipo na operação com os dados)
+-  Palavras MAIUSCULAS são chamadas de _palavras-chaves_(reservadas para operação de algum tipo na operação com os dados).
 
 ### Memorize essa ordem
 
